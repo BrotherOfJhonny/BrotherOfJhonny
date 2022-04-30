@@ -6,7 +6,8 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/intl/pt-BR_br/)
 [![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/br/ios/ios-15/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=whit)](https://www.microsoft.com/pt-br/windows/?r=1)
-[![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+[![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://archlinux.org/)
 
 ![M@Tr1XPdB GitHub stats](https://github-readme-stats.vercel.app/api?username=BrotherOfJhonny&show_icons=true&theme=dracula&count_private=true)
 
