@@ -28,6 +28,10 @@
 
 Apaixonado por tecnologia, aprendizagem e compartilhar conhecimento. 
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
+
 ### Videos, treinamentos e desafios recomendados:
 - [PortSwigger - Academia de segurança web](https://portswigger.net/web-security)<br/>
 - [Beco do Exploit - Hackear 30 máquinas em 30 dias!](https://www.youtube.com/watch?v=xnCS8fYfrjs&list=PLHBDBcFA_l_WBcUJWf8cp5BaPsUkquRQU)<br/>
