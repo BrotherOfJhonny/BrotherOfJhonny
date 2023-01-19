@@ -9,7 +9,6 @@
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/index.pt.html)
 [![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/get-kali/#kali-bare-metal)
 
-![M@Tr1XPdB GitHub stats](https://github-readme-stats.vercel.app/api?username=BrotherOfJhonny&show_icons=true&theme=dracula&count_private=true)
 
 ## Algumas linguagens de programação que esbarro no meu dia-a-dia
 </br>
