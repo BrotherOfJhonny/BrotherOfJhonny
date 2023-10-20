@@ -27,9 +27,6 @@
 
 Apaixonado por tecnologia, aprendizagem e compartilhar conhecimento. 
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-
 
 ### Videos, treinamentos e desafios recomendados:
 - [PortSwigger - Academia de segurança web](https://portswigger.net/web-security)<br/>
